@@ -222,10 +222,10 @@ Again Keeping the tradition with its DS predecessor the **IS-TWL-CAPTURE** is th
 
 
 ## IS-TWL-VSA
-The IS-TWL-VSA is a Visual Studio 2005 Add On meant to aid in DSi development, it was distributed in Japanese and English, however, only the Japanese version is known to still exist. it was briefly mentioned in a 2015 recruitment document and described as a "Integrated Development environment add in" [^6]. The IS-TWL-VSA was meant as a way for developers to move away from CodeWarrior and over to Visual Studio. It is capable of starting Nitro, Twilight, and Hybrid projects.
+The **IS-TWL-VSA** is a Visual Studio 2005 Add On meant to aid in DSi development, it was distributed in Japanese and English, however, only the Japanese version has been found. it was briefly mentioned in a 2015 recruitment document and described as a "Integrated Development environment add in" [^6]. The IS-TWL-VSA was meant as a way for developers to move away from CodeWarrior and over to Visual Studio. It is capable of starting Nitro, Twilight, and Hybrid projects.
 
 ## IS-TWL-MIDI
-Noone has taken any photos of the **IS-TWL-VSA** but it was briefly mentioned in a 2015 Intelligent Systems recruitment document and described as a "Sound Development System" [^6]. It is presumably just a more up-to-date version of the **IS-NITRO-UIC**.
+Besides the Setup Guide illustrations[^7], currently no photos of the **IS-TWL-MIDI** exist. It was briefly mentioned in a 2015 Intelligent Systems recruitment document and described as a "Sound Development System" [^6]. The IS-TWL-MIDI Is a standalone cartridge that plugs into the slot 1 port of the **IS-TWL-DEBUGGER**. It has a MIDI port on the top of the unit and unlike the **IS-NITRO-UIC**, appears to have no on board usb connector. Since no software for this hardware has currently been found, and the unit being extremely rare, not much more is known about this particular piece of hardware.
 
 ## TWL-DEV-EUR (PANDA) Nintendo DSi Development Unit
 
@@ -272,3 +272,4 @@ Datel are a very talented company when to comes to by-passing security and doing
 [^4]: [Gamasutra - SN Systems and Hudson Announce DS Tools Project](https://www.gamasutra.com/view/news/96005/SN_Systems_and_Hudson_Announce_DS_Tools_Project.php)
 [^5]: [Nintendo DS IS TWL Debugger from Retrogames](https://www.retrogames.co.uk/044754/Nintendo/Nintendo-DS-IS-TWL-Debugger)
 [^6]: [Intelligent Systems Recruitment 2015](https://intsys.co.jp/recruit/requirement/pamphlet2015.pdf)
+[^7]: [IS-TWL-MIDI_Setup Panphlet](https://drive.google.com/file/d/1q4xgm26UgmYeq1O2d_5qOcrGCP8AwiA0/view?usp=sharing)
